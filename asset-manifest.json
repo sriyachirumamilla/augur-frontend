@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/augur-frontend/static/css/main.b8b29cae.css",
+    "main.js": "/augur-frontend/static/js/main.02259518.js",
+    "static/js/488.bdbf0631.chunk.js": "/augur-frontend/static/js/488.bdbf0631.chunk.js",
+    "index.html": "/augur-frontend/index.html",
+    "main.b8b29cae.css.map": "/augur-frontend/static/css/main.b8b29cae.css.map",
+    "main.02259518.js.map": "/augur-frontend/static/js/main.02259518.js.map",
+    "488.bdbf0631.chunk.js.map": "/augur-frontend/static/js/488.bdbf0631.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8b29cae.css",
+    "static/js/main.02259518.js"
+  ]
+}
