@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sriyachirumamilla/augur-frontend.git/static/css/main.b8b29cae.css",
+    "main.js": "/sriyachirumamilla/augur-frontend.git/static/js/main.0087524d.js",
+    "static/js/488.bdbf0631.chunk.js": "/sriyachirumamilla/augur-frontend.git/static/js/488.bdbf0631.chunk.js",
+    "index.html": "/sriyachirumamilla/augur-frontend.git/index.html",
+    "main.b8b29cae.css.map": "/sriyachirumamilla/augur-frontend.git/static/css/main.b8b29cae.css.map",
+    "main.0087524d.js.map": "/sriyachirumamilla/augur-frontend.git/static/js/main.0087524d.js.map",
+    "488.bdbf0631.chunk.js.map": "/sriyachirumamilla/augur-frontend.git/static/js/488.bdbf0631.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8b29cae.css",
+    "static/js/main.0087524d.js"
+  ]
+}
